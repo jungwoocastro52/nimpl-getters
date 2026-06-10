@@ -1,6 +1,6 @@
 {
   "name": "nimpl-getters",
-  "version": "0.1.44",
+  "version": "0.1.45",
   "description": "Implementation of server getters in React Server Components without switching to SSR",
   "main": "src/index.ts",
   "scripts": {
